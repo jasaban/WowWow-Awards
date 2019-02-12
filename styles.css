@@ -1,0 +1,52 @@
+.micheal {
+  width: 20%; 
+  
+}
+     
+.Home {
+border-radius: 50%;
+}
+
+.Adam {
+ width: 40%;
+} 
+
+.Julia {  
+ width: 40%;
+}  
+
+.Home  {  
+ width: 40%;
+ border-radius: 50%;
+} 
+
+img{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+body{
+background-color: lightblue;
+}
+
+h2 {
+text-align: center;  
+font-family: 'Staatliches', cursive;  
+color: white; 
+}
+
+p {
+text-align: center;
+color:white;
+font-family: 'Lato', sans-serif; 
+}
+
+
+  
+
+
+
+
+
